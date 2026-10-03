@@ -1,7 +1,3 @@
 node_modules/
+dist/
 .env
-uploads/**
-!uploads/**/.gitkeep
-!uploads/profiles
-!uploads/logos
-!uploads/gallery
